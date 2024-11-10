@@ -1,0 +1,52 @@
+/* id selector */
+#intro {
+  background: #418fb1;
+  border: 1px solid #099294;
+  min-height: 100px;
+  padding: 10px;
+}
+#intro h1 {
+  text-align: left;
+  border: 0;
+  color: #fff;
+}
+
+/* class slector */
+.button {
+  padding: 15px 20px;
+  background: #bebcbd;
+  color: #fff;
+  display: inline-block;
+  margin: 10px;
+  text-decoration: none;
+}
+.btn-primary {
+  background: #e42a42;
+}
+nav {
+  background: #20a759;
+  color: #fff;
+  padding: 10px;
+}
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+h1 {
+  color: blue;
+  font-size: 40px;
+  margin: 20px;
+  padding: 10px;
+  border: 2px solid blue;
+}
+nav .active nav a:hover {
+  background: #0b6b3a;
+}
+
+p {
+  background-image: url("img/lamborghini-3840x2160-19504.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
